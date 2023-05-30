@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class Voo extends Sistema{
+public class Voo{
     private String numeroDoVoo;
     private String origem;
     private String destino;

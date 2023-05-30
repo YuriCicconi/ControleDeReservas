@@ -3,7 +3,7 @@ package br.com.yuri.controlavoos.modelos;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Passageiro extends Sistema{
+public class Passageiro{
     private List<Voo> reservas;
     private String nome;
     private String cpf;
